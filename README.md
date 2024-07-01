@@ -7,8 +7,9 @@
 인당 20분씩 X 3
 
 ## 스터디 책
-도메인 주도 설계로 시작하는 마이크로서비스 개발
-[링크](https://product.kyobobook.co.kr/detail/S000001766464)
+![image](https://github.com/dev-club-gooban/podo-book-msa-study/assets/71485411/5732bd46-76c5-4838-a170-58e40919e26d)
+<br>
+[도메인 주도 설계로 시작하는 마이크로서비스 개발](https://product.kyobobook.co.kr/detail/S000001766464)
 
 1, 4장을 제외하고 스터디를 진행합니다.<br>
 우선 책을 한 번 모두 완독 한 후 스터디원들끼리 MSA에 관한 생각의 싱크를 맞춥니다.<br>
